@@ -11,10 +11,15 @@ This project used Cucumber, Selenium and JUnit and Take into consideration BDD
 -And then go to runners-->CukesRunner in src file
 
 ##How to run in docker and selenium grid ?
+
 -Open the terminal and 'docker-compose up'
+
 -Go to configuration.properties file and write browser type "remote-browser"
+
 -And then go to runners-->CukesRunner in src file
+
 -Go localhost:4444 and click sesions and  watch test.If it asks for a password, the password is "secret".
+
 -Ctrl+c exit the container.
 
 ##How to see Allure Report ?
