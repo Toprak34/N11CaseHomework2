@@ -2,7 +2,8 @@
 
 ##Description of Project
 Search for the word 'ayfone' on the Home Page and From the results, the first and last product on the first page and the 5th product on the 3rd page are added to the basket.
-Cheapest item quantity three is made and bought
+Cheapest item quantity three is made and bought.
+
 This project used Cucumber, Selenium and JUnit and Take into consideration BDD
 
 ##How to run test case? 
